@@ -1,8 +1,6 @@
 ## Hi there! 👋
 
-- 🔭 I'm currently working with web development
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: cesarino.nhabangue@isutc.ac.mz
+✨ This README was generated to showcase my journey, skills, and projects. Let's connect and build something awesome together! 🚀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarinoNhabangue&show_icons=true)  
 
