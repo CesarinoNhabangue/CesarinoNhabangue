@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-✨ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas tecnologias. Aqui você encontrará meus projetos, contribuições e minha jornada no mundo da programação.
+✨ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas tecnologias. Aqui encontraráS meus projetos, contribuições e minha jornada no mundo da programação.
 
 - 🔭 Atualmente trabalhando em projetos interessantes
 - 🌱 Sempre aprendendo e evoluindo
